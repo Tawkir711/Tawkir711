@@ -20,7 +20,5 @@ Hello Sir, I am Tawkir Ahmed, a React front-end developer with knowledge of full
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tawkir711)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tawkir711)](https://github.com/ryo-ma/github-profile-trophy)
  
 
