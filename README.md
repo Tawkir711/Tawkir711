@@ -7,8 +7,8 @@ Hello Sir, I am Tawkir Ahmed, a React front-end developer with knowledge of full
 
 Skills: / REACT / JS / HTML / CSS /
 
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about React 
+- 🌱 I’m currently learning <b>Next.js </b>
+- 💬 Ask me about <b>React</b>
 - 📫 How to reach me: mdtawkir711@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tawkir711)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tawkir-ahmed-26739b2a4/)  
