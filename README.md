@@ -3,7 +3,7 @@
 ## Front-end Developer
 
 
-Hello Sir, I am Tawkir Ahmed, a React front-end developer with some basic knowledge of full-stack development. Over the past six months, I have been sharping my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.
+Hello greeting, I am Tawkir Ahmed, a React front-end developer with some basic knowledge of full-stack development. Over the past six months, I have been sharpening my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.
 
 #### Skills: / REACT / JS / HTML / CSS /
 
